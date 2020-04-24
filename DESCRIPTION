@@ -4,7 +4,7 @@ Version: 1.0.2
 Authors@R: person("Jingshu", "Wang", email = "jingshuw@upenn.edu", role = c("aut", "cre"))
 Description: Denoise scRNA-seq data with models pre-trained with public data.
 Depends: R (>= 3.3.0)
-Imports: reticulate (>= 1.13), SAVER, Matrix, methods
+Imports: reticulate (>= 1.13), SAVER, Matrix, methods, tensorflow (>= 2.0.0), keras
 License: GPL (>=2)
 Encoding: UTF-8
 LazyData: true
